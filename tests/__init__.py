@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 def fake_response_from_file(file_name, url=None, meta=None):
     import os
     import codecs

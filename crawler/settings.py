@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 # Scrapy settings for crawler project
 
 BOT_NAME = 'crawler'

@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from scrapy import Request
 
 from crawler.spiders.movie import MovieSpider

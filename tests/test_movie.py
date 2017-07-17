@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from crawler.items import MovieItem
 from crawler.spiders.movie import MovieSpider
 from tests import fake_response_from_file, fake_response_from_url

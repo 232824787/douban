@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from scrapy.exceptions import CloseSpider
 from crawler.items import Actor404Item
 from crawler.spiders.actor import ActorSpider

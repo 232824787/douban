@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from peewee import Model, PrimaryKeyField, IntegerField, \
     CharField, TextField, MySQLDatabase, FloatField, CompositeKey, \
     ForeignKeyField, IntegrityError

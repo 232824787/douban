@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from scrapy import Item
 from scrapy.utils import project
 from crawler.spiders.seeds import SeedSpider
