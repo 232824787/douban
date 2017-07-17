@@ -102,3 +102,5 @@ http://movie.douban.com/celebrity/1050540/movies?start=0&format=pic&sortby=time&
 
 ### Tricks
 有些条目不登陆不显示，比如[蓝宇](http://movie.douban.com/subject/1308076/)。用`XHR`的`API`倒是爬到其链接了，但是要爬详情时还是得进入详情页，因而后续有搞个小号登陆的必要。
+
+
