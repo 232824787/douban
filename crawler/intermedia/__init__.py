@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from peewee import SqliteDatabase, Model
 from scrapy.utils.project import get_project_settings
 

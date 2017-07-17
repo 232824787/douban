@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from peewee import fn
 from scrapy import Request, Spider
 from scrapy.exceptions import CloseSpider

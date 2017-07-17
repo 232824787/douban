@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from peewee import IntegerField, BooleanField
 
 from crawler.intermedia import db, BaseModel

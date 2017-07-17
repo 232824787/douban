@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*- 
 from crawler.fake import USER_AGENTS, rand_cookie
 import random
 
